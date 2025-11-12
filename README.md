@@ -27,7 +27,7 @@ bash ./shell_scripts/vllm_setup_in_tpu.sh
 
 ### Note
 
-These scripts are designed for **Google Cloud TPU v4-8** and **Ubuntu 22.04 TPU VM** images.
+These scripts are tested in **Google Cloud TPU v4-8** and **Ubuntu 22.04 TPU VM** images.
 Modify paths or versions as needed for your setup.
 
 
