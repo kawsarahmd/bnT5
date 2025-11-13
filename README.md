@@ -2,9 +2,15 @@
 We thank the Google TPU Research Cloud (TRC) program for generously providing the cloud computing infrastructure essential to this work.
 
 
-### TPU Setup for Pretraining
+### bnT5 Training Repo
+This repository contains all code and scripts for:
+- Pretraining T5-style models from scratch
+- Fine-tuning on downstream NLP tasks
+- Training custom SentencePiece tokenizers
+- Environment setup for TPU
 
-This repository includes shell scripts to quickly set up the environment for **T5 pretraining** on **Google Cloud TPU**.
+### TPU Setup for Pretraining
+shell_scripts folder includes shell scripts to quickly set up the environment for **T5 pretraining** on **Google Cloud TPU**.
 
 ### Files
 
